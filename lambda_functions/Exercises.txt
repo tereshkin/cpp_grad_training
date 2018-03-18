@@ -1,0 +1,21 @@
+Try following:
+ * Write lambda which finds minimum of 3 numbers
+ * Think if you cna make this lamda work for any number type (int, double)
+ * Use "power" lambda function inside this lamda to return square root
+
+Exercise to use lambdas:
+ * Create 2 vectors with some numbers
+ * Using lambdas add numbers to the first vector only if they do not exist in the second
+
+Exercise with template function:
+ * Change transform vector to accept vector of any type
+
+Perform following using standard library functions:
+ * Count negative elements in your vector
+ * Check if all numbers in the vector are power of 2 (do not use 'count')
+ * Replace negative numbers in your vector with their index (position)
+
+Filter exercise:
+ * Change filter class to be usable via 'transform_vector' function
+ * Change 'filer_result' inside transform to be a memebr function of the class
+ * Add method to count number of "valid" arguments using this method and 'count_if'
