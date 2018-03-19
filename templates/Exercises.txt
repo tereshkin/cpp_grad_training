@@ -1,0 +1,8 @@
+1. Make sure that basket_4 example works for every product type
+2. Change seller to be usable directly in 'total_weight' function
+3. Overload 'std::cout <<' for basket_4 and use it in main
+4. Add product which is measured by number of things only ('int' storage type)
+
+5. Write number generators which by default produces binomial distribution for integer
+   and normal distribution for double. Think about putting them as standalone functions
+   or classes.
